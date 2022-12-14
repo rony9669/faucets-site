@@ -1,5 +1,9 @@
-.App {
-  text-align: center;
+.primary-color {
+  color: #9b1fe9 !important;
+}
+.primary-color-bg {
+  background-color: #9b1fe9;
+  color: #fff;
 }
 
 .App-logo {

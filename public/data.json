@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Arbitrum Rinkeby",
+    "img": "https://i.postimg.cc/kgmvjLt5/Arbitrum-Rinkeby.png"
+  },
+  {
+    "id": "2",
+    "name": "Avalanche Fuji",
+    "img": "https://i.postimg.cc/9fNTjkzZ/Avalanche-Fuji.png"
+  },
+  {
+    "id": "3",
+    "name": "BNB Chain Testnet",
+    "img": "https://i.postimg.cc/hGwJY730/Binance-Logo.png"
+  },
+  {
+    "id": "4",
+    "name": "Ethereum Rinkeby",
+    "img": "https://i.postimg.cc/FzzBH8xv/Ethereum-Rinkeby.png"
+  },
+  {
+    "id": "5",
+    "name": "Fantom Testnet",
+    "img": "https://i.postimg.cc/2S1L7w05/Fantom-Testnet.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Harmony Testnet",
+    "img": "https://i.postimg.cc/x1jDwxw0/Harmony-Testnet.jpg"
+  },
+  {
+    "id": "7",
+    "name": "POA Network Sokol",
+    "img": "https://i.postimg.cc/L845xVvP/POA-Network-Sokol.png"
+  },
+  {
+    "id": "8",
+    "name": "Polygon Mumbai",
+    "img": "https://i.postimg.cc/j2kgBcPj/Polygon-Mumbai.png"
+  }
+]
